@@ -1,4 +1,4 @@
-# Statistics_related
+# Openintro_labs_in_Python
 Python codes for doing assignments for the statistics classes
 
 # 1 Hot-hand player vs. Cold-hand player 
