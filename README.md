@@ -3,7 +3,7 @@ Python codes for the <a href="https://www.openintro.org/stat/labs.php?stat_lab_s
 
 # 1. Hot-hand player vs. Cold-hand player 
 * Exploring the differences of hot-hand player and cold-hand player through the lens of graphical description and numberical statistical summary
-* Motivated by the 2nd lab session, "<a href="https://www.openintro.org/download.php?file=os2_lab_02A">Probability</a>, which deals with the question, "Is Kobe Bryant a hot-hand basketball player?"
+* Motivated by the 2nd lab session, <a href="https://www.openintro.org/download.php?file=os2_lab_02A">Probability</a>, which deals with the question, "Is Kobe Bryant a hot-hand basketball player?"
 
 # 2. The normal distribution
 * The Python code for solving the 3rd lab session, <a href="http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/normal_distribution/normal_distribution.html"> 'The normal distribution' </a>
