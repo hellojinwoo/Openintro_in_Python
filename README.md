@@ -13,6 +13,6 @@ Python codes for the <a href="https://www.openintro.org/stat/labs.php?stat_lab_s
 * Using Matplotlib's subplot function and seaborn to draw several plots side by side
 
 # 3. Confindence intervals
-* The Python code for solving the 6th lab session, <a href="http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/confidence_intervals/confidence_intervals.html>'Confidence intervals'</a>.
+* The Python code for solving the 6th lab session, <a href="http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/confidence_intervals/confidence_intervals.html">'Confidence intervals'</a>.
 * Figuring out which critical values to use for different confidence levels. 
 * Learning the meaning of the confidence levels (eg. 95% confidence intervals).
